@@ -1,4 +1,7 @@
-# test coverage for  [ember-cli-segment (v0.4.0)](https://github.com/josemarluedke/ember-cli-segment)  [![npm package](https://img.shields.io/npm/v/npmtest-ember-cli-segment.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ember-cli-segment) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ember-cli-segment.svg)](https://travis-ci.org/npmtest/node-npmtest-ember-cli-segment)
+# npmtest-ember-cli-segment
+
+#### basic test coverage for  [ember-cli-segment (v0.4.0)](https://github.com/josemarluedke/ember-cli-segment)  [![npm package](https://img.shields.io/npm/v/npmtest-ember-cli-segment.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ember-cli-segment) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ember-cli-segment.svg)](https://travis-ci.org/npmtest/node-npmtest-ember-cli-segment)
+
 #### Ember CLI addon that provides a clean and easy way to integrate your Ember application with Segment.com
 
 [![NPM](https://nodei.co/npm/ember-cli-segment.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/ember-cli-segment)
@@ -101,7 +104,8 @@
         "start": "ember server",
         "test": "ember try:testall"
     },
-    "version": "0.4.0"
+    "version": "0.4.0",
+    "bin": {}
 }
 ```
 
